@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "中国边界",
+        "region_type": "national_boundary",
+        "critical": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [73.5, 53.5], [135.0, 53.5], [135.0, 18.0],
+          [110.0, 18.0], [110.0, 3.5], [73.5, 3.5], [73.5, 53.5]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "南海九段线",
+        "region_type": "nine_dash_line",
+        "critical": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [117.5, 18.0], [120.0, 15.0], [117.0, 10.0],
+          [112.0, 6.0], [109.0, 4.0], [105.0, 8.0],
+          [108.0, 12.0], [112.0, 16.0], [117.5, 18.0]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "藏南地区",
+        "region_type": "south_tibet",
+        "critical": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [91.5, 28.0], [97.5, 28.0], [97.5, 26.5],
+          [91.5, 26.5], [91.5, 28.0]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "阿克赛钦",
+        "region_type": "aksai_chin",
+        "critical": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.0, 36.0], [80.5, 36.0], [80.5, 33.5],
+          [78.0, 33.5], [78.0, 36.0]
+        ]]
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "完整的中国边界"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [73.5, 53.5], [135.0, 53.5], [135.0, 18.0],
+          [110.0, 18.0], [110.0, 3.5], [73.5, 3.5], [73.5, 53.5]
+        ]]
+      }
+    }
+  ]
+}
