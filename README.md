@@ -22,13 +22,15 @@ A CLI tool to validate GeoJSON files against China's official geographic boundar
 ### Installation
 
 ```bash
-pip install china-geo-compliance
+pip install "git+https://github.com/PerryLink/China-Geo-Compliance.git"
+# (installs from source; not yet on PyPI)
 ```
 
 Or with Poetry:
 
 ```bash
-poetry add china-geo-compliance
+poetry add git+https://github.com/PerryLink/China-Geo-Compliance.git
+# (installs from source; not yet on PyPI)
 ```
 
 ### Basic Usage
@@ -111,13 +113,15 @@ Copyright 2026 Chance Dean (novelnexusai@outlook.com)
 ### 安装
 
 ```bash
-pip install china-geo-compliance
+pip install "git+https://github.com/PerryLink/China-Geo-Compliance.git"
+# （PyPI 未发布，源码直装）
 ```
 
 或使用 Poetry：
 
 ```bash
-poetry add china-geo-compliance
+poetry add git+https://github.com/PerryLink/China-Geo-Compliance.git
+# （PyPI 未发布，源码直装）
 ```
 
 ### 基本使用
